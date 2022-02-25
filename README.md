@@ -51,6 +51,6 @@ The [GitHub Reamde Stats](https://github.com/anuraghazra/github-readme-stats)
 is a cute project for putting vanity badges into your personal github readme.
 Here are mine.
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirosen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirosen&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Stephen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirosen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
