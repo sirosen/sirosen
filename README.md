@@ -44,13 +44,3 @@ I'm the current maintainer of [nose2](https://github.com/nose-devs/nose2).
 I also contribute to other projects like
 [marshmallow](https://github.com/marshmallow-code/marshmallow) and
 [SchemaStore](https://github.com/SchemaStore/schemastore) as I'm able.
-
-### Vanity Badges
-
-The [GitHub Reamde Stats](https://github.com/anuraghazra/github-readme-stats)
-is a cute project for putting vanity badges into your personal github readme.
-Here are mine.
-
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirosen&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stephen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirosen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
